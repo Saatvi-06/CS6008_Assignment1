@@ -1,0 +1,13 @@
+*.log
+*.txt
+*.md
+!Report.md
+!README.md
+!commands.txt
+!git_commands.txt
+assignment_code.zip
+certs/
+phase3/certs/
+phase4/certs/
+phase5/certs/
+
